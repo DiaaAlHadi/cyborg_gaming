@@ -11,7 +11,7 @@
 
 .most-popular-item-image {
     width: 100%;
-    height: ;
+    height: 160px;
     border-radius: calc(var(--border-radius-primary)/2);
     margin-bottom: calc(var(--margin-primary)/2);
 }
